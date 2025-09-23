@@ -1,1 +1,1 @@
-[2025-09-23 13:59:53 +02:00] fix(slo): fix Arabic font rendering on mobile webkit browsers ensuring idempotent state updates
+[2025-09-23 15:11:31 +02:00] perf(theme): virtualize candidate comparison matrix for instantaneous filtering with error boundary safeguards
