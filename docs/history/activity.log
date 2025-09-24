@@ -1,1 +1,1 @@
-[2025-09-24 13:56:34 +02:00] fix(benchmark): resolve radar chart polygon clipping on narrow container dimensions
+[2025-09-24 16:24:09 +02:00] test(competency): add property-based invariance tests for competency algorithms to ensure deterministic execution
