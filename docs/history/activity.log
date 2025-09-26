@@ -1,1 +1,1 @@
-[2025-09-26 11:38:07 +02:00] perf(kanban): virtualize candidate comparison matrix for instantaneous filtering with error boundary safeguards
+[2025-09-26 14:00:37 +02:00] fix(competency): ensure dark mode background and border contrast meet WCAG 2.2 AA and add integration assertions
