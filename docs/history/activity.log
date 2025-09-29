@@ -1,1 +1,1 @@
-[2025-09-29 15:18:26 +02:00] docs(vector): update technical specifications and mathematical documentation for vector and verify mathematical invariance
+[2025-09-29 16:49:01 +02:00] fix(competency): resolve modal focus trap in AskPortfolio AI modal ensuring idempotent state updates
