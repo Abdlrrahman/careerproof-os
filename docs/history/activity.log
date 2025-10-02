@@ -1,1 +1,1 @@
-[2025-10-02 11:09:42 +02:00] fix(vector): fix Arabic font rendering on mobile webkit browsers and add integration assertions
+[2025-10-02 13:11:02 +02:00] perf(perf): virtualize candidate comparison matrix for instantaneous filtering with sub-millisecond execution latency
