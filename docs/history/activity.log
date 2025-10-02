@@ -1,1 +1,1 @@
-[2025-10-02 13:11:02 +02:00] perf(perf): virtualize candidate comparison matrix for instantaneous filtering with sub-millisecond execution latency
+[2025-10-02 15:12:24 +02:00] fix(theme): correct interview copilot question timer on pause and resume to ensure deterministic execution
