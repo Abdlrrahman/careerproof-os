@@ -1,1 +1,1 @@
-[2025-10-03 16:37:44 +02:00] fix(telemetry): patch active state toggle on tech radar filter pills with optimized memory allocation
+[2025-10-03 17:33:32 +02:00] fix(kanban): ensure dark mode background and border contrast meet WCAG 2.2 AA
