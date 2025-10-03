@@ -1,1 +1,1 @@
-[2025-10-03 17:33:32 +02:00] fix(kanban): ensure dark mode background and border contrast meet WCAG 2.2 AA
+[2025-10-03 18:29:58 +02:00] feat(theme): high-contrast dual theme system across dashboard and evaluation modals for local-first air-gapped readiness
