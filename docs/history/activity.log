@@ -1,1 +1,1 @@
-[2025-10-03 20:21:54 +02:00] fix(competency): fix Kanban drag-and-drop state sync across concurrent column updates ensuring idempotent state updates
+[2025-10-07 10:45:25 +02:00] fix(telemetry): fix Kanban drag-and-drop state sync across concurrent column updates for local-first air-gapped readiness
