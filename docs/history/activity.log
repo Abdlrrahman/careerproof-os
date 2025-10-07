@@ -1,1 +1,1 @@
-[2025-10-07 10:45:25 +02:00] fix(telemetry): fix Kanban drag-and-drop state sync across concurrent column updates for local-first air-gapped readiness
+[2025-10-07 12:14:16 +02:00] refactor(competency): modernize competency component hierarchy with zero regression to ensure deterministic execution
