@@ -1,1 +1,1 @@
-[2025-10-07 12:14:16 +02:00] refactor(competency): modernize competency component hierarchy with zero regression to ensure deterministic execution
+[2025-10-07 13:43:21 +02:00] feat(radar): SLO calculator for team reliability engineering metrics and availability and add integration assertions
