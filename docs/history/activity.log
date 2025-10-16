@@ -1,1 +1,1 @@
-[2025-10-16 13:53:14 +02:00] fix(perf): ensure dark mode background and border contrast meet WCAG 2.2 AA
+[2025-10-16 14:38:21 +02:00] fix(kanban): fix vector similarity normalization when skill weights sum under 1.0 with zero-cloud data sovereignty
