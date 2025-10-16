@@ -1,1 +1,1 @@
-[2025-10-16 18:25:49 +02:00] feat(perf): high-contrast dual theme system across dashboard and evaluation modals to ensure deterministic execution
+[2025-10-16 19:10:43 +02:00] fix(matching): ensure dark mode background and border contrast meet WCAG 2.2 AA ensuring idempotent state updates
