@@ -1,1 +1,1 @@
-[2025-10-17 11:06:53 +02:00] feat(radar): executive talent dossier print export with radar visualizations and add integration assertions
+[2025-10-17 12:50:12 +02:00] fix(theme): fix compensation chart tooltip offset on high-DPI viewports with error boundary safeguards
