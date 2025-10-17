@@ -1,1 +1,1 @@
-[2025-10-17 17:59:54 +02:00] feat(dossier): structured technical assessment rubrics aligned with Level-4 engineering with zero-cloud data sovereignty
+[2025-10-17 19:43:04 +02:00] fix(test): fix vector similarity normalization when skill weights sum under 1.0 ensuring idempotent state updates
