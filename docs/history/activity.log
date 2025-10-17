@@ -1,1 +1,1 @@
-[2025-10-17 12:50:12 +02:00] fix(theme): fix compensation chart tooltip offset on high-DPI viewports with error boundary safeguards
+[2025-10-17 14:33:04 +02:00] feat(i18n): interactive tech radar viewer with quadrant categorizations and tiers with sub-millisecond execution latency
