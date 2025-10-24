@@ -1,1 +1,1 @@
-[2025-10-24 15:08:25 +02:00] fix(dossier): fix vector similarity normalization when skill weights sum under 1.0 with graceful offline fallback
+[2025-10-24 16:37:17 +02:00] fix(ai): resolve radar chart polygon clipping on narrow container dimensions complying with institutional audit standards
