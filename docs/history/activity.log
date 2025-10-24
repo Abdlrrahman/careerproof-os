@@ -1,1 +1,1 @@
-[2025-10-17 19:43:04 +02:00] fix(test): fix vector similarity normalization when skill weights sum under 1.0 ensuring idempotent state updates
+[2025-10-24 10:41:29 +02:00] fix(copilot): correct interview copilot question timer on pause and resume ensuring idempotent state updates
