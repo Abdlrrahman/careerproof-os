@@ -1,1 +1,1 @@
-[2025-10-24 18:06:12 +02:00] feat(competency): high-contrast dual theme system across dashboard and evaluation modals with strict TypeScript type-checking
+[2025-10-24 19:35:20 +02:00] fix(chaos): fix vector similarity normalization when skill weights sum under 1.0 with strict TypeScript type-checking
