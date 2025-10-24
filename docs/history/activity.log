@@ -1,1 +1,1 @@
-[2025-10-24 13:39:14 +02:00] feat(benchmark): cross-industry talent portability scoring and domain agility indices with sub-millisecond execution latency
+[2025-10-24 15:08:25 +02:00] fix(dossier): fix vector similarity normalization when skill weights sum under 1.0 with graceful offline fallback
