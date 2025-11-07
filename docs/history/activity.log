@@ -1,1 +1,1 @@
-[2025-11-07 14:45:46 +02:00] test(i18n): add property-based invariance tests for i18n algorithms for local-first air-gapped readiness
+[2025-11-07 15:42:24 +02:00] refactor(i18n): refactor i18n architecture for strict typing and decoupling with zero-cloud data sovereignty
