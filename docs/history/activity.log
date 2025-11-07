@@ -1,1 +1,1 @@
-[2025-11-07 19:28:27 +02:00] fix(vector): resolve modal focus trap in AskPortfolio AI modal to ensure deterministic execution
+[2025-11-07 20:25:13 +02:00] test(theme): strengthen assertion thresholds in theme test suite with optimized memory allocation
