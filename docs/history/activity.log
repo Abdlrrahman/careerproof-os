@@ -1,1 +1,1 @@
-[2025-11-07 17:35:14 +02:00] test(vector): expand unit and integration test coverage for vector module to ensure deterministic execution
+[2025-11-07 18:32:10 +02:00] fix(knowledge-graph): correct interview copilot question timer on pause and resume for local-first air-gapped readiness
