@@ -1,1 +1,1 @@
-[2025-11-07 18:32:10 +02:00] fix(knowledge-graph): correct interview copilot question timer on pause and resume for local-first air-gapped readiness
+[2025-11-07 19:28:27 +02:00] fix(vector): resolve modal focus trap in AskPortfolio AI modal to ensure deterministic execution
