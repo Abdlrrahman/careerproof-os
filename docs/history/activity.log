@@ -1,1 +1,1 @@
-[2025-11-17 12:31:39 +02:00] fix(slo): fix vector similarity normalization when skill weights sum under 1.0 across all deployment profiles
+[2025-11-17 13:36:59 +02:00] refactor(negotiation): streamline internal state transitions in negotiation controller across all deployment profiles
