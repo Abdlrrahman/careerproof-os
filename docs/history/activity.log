@@ -1,1 +1,1 @@
-[2025-11-17 15:46:12 +02:00] refactor(radar): extract reusable domain primitives from radar engine and add integration assertions
+[2025-11-17 16:50:46 +02:00] fix(negotiation): fix compensation chart tooltip offset on high-DPI viewports ensuring idempotent state updates
