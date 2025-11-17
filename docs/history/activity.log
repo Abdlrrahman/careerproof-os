@@ -1,1 +1,1 @@
-[2025-11-17 14:41:05 +02:00] feat(ai): salary negotiation playbook with percentile benchmark data and levers and verify mathematical invariance
+[2025-11-17 15:46:12 +02:00] refactor(radar): extract reusable domain primitives from radar engine and add integration assertions
