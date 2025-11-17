@@ -1,1 +1,1 @@
-[2025-11-17 13:36:59 +02:00] refactor(negotiation): streamline internal state transitions in negotiation controller across all deployment profiles
+[2025-11-17 14:41:05 +02:00] feat(ai): salary negotiation playbook with percentile benchmark data and levers and verify mathematical invariance
