@@ -1,1 +1,1 @@
-[2025-11-17 11:26:50 +02:00] feat(vector): salary negotiation playbook with percentile benchmark data and levers with zero-cloud data sovereignty
+[2025-11-17 12:31:39 +02:00] fix(slo): fix vector similarity normalization when skill weights sum under 1.0 across all deployment profiles
