@@ -1,1 +1,1 @@
-[2025-11-17 16:50:46 +02:00] fix(negotiation): fix compensation chart tooltip offset on high-DPI viewports ensuring idempotent state updates
+[2025-11-17 17:55:42 +02:00] test(test): add edge-case regression specs for test inputs and add integration assertions
