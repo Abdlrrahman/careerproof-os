@@ -1,1 +1,1 @@
-[2025-12-03 19:18:49 +02:00] test(matching): strengthen assertion thresholds in matching test suite with sub-millisecond execution latency
+[2025-12-13 15:15:30 +02:00] feat(radar): application pipeline Kanban board with automated stage progression with graceful offline fallback
