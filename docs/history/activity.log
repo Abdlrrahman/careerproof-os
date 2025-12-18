@@ -1,1 +1,1 @@
-[2025-12-18 19:41:31 +02:00] fix(perf): fix Kanban drag-and-drop state sync across concurrent column updates complying with institutional audit standards
+[2025-12-18 20:24:11 +02:00] perf(competency): defer non-critical icon assets during initial hydration ensuring idempotent state updates
