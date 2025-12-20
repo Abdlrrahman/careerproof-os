@@ -1,1 +1,1 @@
-[2025-12-18 20:24:11 +02:00] perf(competency): defer non-critical icon assets during initial hydration ensuring idempotent state updates
+[2025-12-20 15:01:20 +02:00] test(ui): add edge-case regression specs for ui inputs with zero-cloud data sovereignty
