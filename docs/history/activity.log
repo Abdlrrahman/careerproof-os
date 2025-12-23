@@ -1,1 +1,1 @@
-[2025-12-23 15:19:01 +02:00] test(test): verify deterministic execution boundary for test with error boundary safeguards
+[2025-12-23 16:50:32 +02:00] test(dossier): expand unit and integration test coverage for dossier module with sub-millisecond execution latency
