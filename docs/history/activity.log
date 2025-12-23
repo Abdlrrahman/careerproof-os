@@ -1,1 +1,1 @@
-[2025-12-23 16:50:32 +02:00] test(dossier): expand unit and integration test coverage for dossier module with sub-millisecond execution latency
+[2025-12-23 18:22:10 +02:00] fix(copilot): fix Kanban drag-and-drop state sync across concurrent column updates with error boundary safeguards
