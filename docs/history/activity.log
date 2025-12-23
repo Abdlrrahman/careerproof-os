@@ -1,1 +1,1 @@
-[2025-12-23 18:22:10 +02:00] fix(copilot): fix Kanban drag-and-drop state sync across concurrent column updates with error boundary safeguards
+[2025-12-23 19:54:03 +02:00] feat(copilot): Career Knowledge Graph with interactive node links and force graph layout with graceful offline fallback
