@@ -1,1 +1,1 @@
-[2026-01-08 15:14:25 +02:00] fix(copilot): fix vector similarity normalization when skill weights sum under 1.0 and verify mathematical invariance
+[2026-01-08 16:45:31 +02:00] feat(vector): executive career briefing audio player component with voice synthesis with strict TypeScript type-checking
