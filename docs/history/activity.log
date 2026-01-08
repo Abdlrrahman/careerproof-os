@@ -1,1 +1,1 @@
-[2026-01-08 13:42:10 +02:00] feat(competency): bilingual Arabic RTL localization and Amiri font typography and add integration assertions
+[2026-01-08 15:14:25 +02:00] fix(copilot): fix vector similarity normalization when skill weights sum under 1.0 and verify mathematical invariance
