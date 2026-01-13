@@ -1,1 +1,1 @@
-[2026-01-13 17:11:38 +02:00] fix(perf): patch active state toggle on tech radar filter pills with strict TypeScript type-checking
+[2026-01-13 19:07:07 +02:00] fix(competency): resolve modal focus trap in AskPortfolio AI modal to ensure deterministic execution
