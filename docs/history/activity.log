@@ -1,1 +1,1 @@
-[2026-01-29 12:38:24 +02:00] fix(theme): fix vector similarity normalization when skill weights sum under 1.0 ensuring idempotent state updates
+[2026-01-29 14:21:21 +02:00] test(chaos): add edge-case regression specs for chaos inputs with graceful offline fallback
