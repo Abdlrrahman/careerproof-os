@@ -1,1 +1,1 @@
-[2026-01-29 10:54:50 +02:00] feat(theme): cross-industry talent portability scoring and domain agility indices with graceful offline fallback
+[2026-01-29 12:38:24 +02:00] fix(theme): fix vector similarity normalization when skill weights sum under 1.0 ensuring idempotent state updates
