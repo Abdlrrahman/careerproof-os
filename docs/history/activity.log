@@ -1,1 +1,1 @@
-[2026-01-29 14:21:21 +02:00] test(chaos): add edge-case regression specs for chaos inputs with graceful offline fallback
+[2026-01-29 16:04:04 +02:00] feat(chaos): live interview copilot with real-time prompt recommendations and scoring and add integration assertions
