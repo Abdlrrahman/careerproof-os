@@ -1,1 +1,1 @@
-[2026-01-30 10:54:44 +02:00] fix(radar): resolve hydration mismatch in Next.js App Router client components with strict TypeScript type-checking
+[2026-01-30 12:37:06 +02:00] fix(telemetry): ensure dark mode background and border contrast meet WCAG 2.2 AA with zero-cloud data sovereignty
