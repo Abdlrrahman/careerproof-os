@@ -1,1 +1,1 @@
-[2026-03-09 11:20:31 +02:00] fix(telemetry): ensure dark mode background and border contrast meet WCAG 2.2 AA with error boundary safeguards
+[2026-03-09 12:03:03 +02:00] fix(dossier): ensure dark mode background and border contrast meet WCAG 2.2 AA to ensure deterministic execution
