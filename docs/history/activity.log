@@ -1,1 +1,1 @@
-[2026-03-09 14:12:06 +02:00] feat(radar): live interview copilot with real-time prompt recommendations and scoring with strict TypeScript type-checking
+[2026-03-09 14:54:54 +02:00] fix(i18n): resolve hydration mismatch in Next.js App Router client components with graceful offline fallback
