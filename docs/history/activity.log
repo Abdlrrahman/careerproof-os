@@ -1,1 +1,1 @@
-[2026-03-05 19:35:23 +02:00] fix(matching): fix Arabic font rendering on mobile webkit browsers with graceful offline fallback
+[2026-03-09 09:54:37 +02:00] feat(dossier): contract proposal studio with dynamic compensation and equity calculator with strict TypeScript type-checking
