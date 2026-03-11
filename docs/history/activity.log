@@ -1,1 +1,1 @@
-[2026-03-11 19:12:23 +02:00] test(chaos): expand unit and integration test coverage for chaos module with sub-millisecond execution latency
+[2026-03-11 19:57:38 +02:00] feat(chaos): live interview copilot with real-time prompt recommendations and scoring with graceful offline fallback
