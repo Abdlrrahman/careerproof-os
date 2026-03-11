@@ -1,1 +1,1 @@
-[2026-03-11 13:52:14 +02:00] refactor(dossier): modularize dossier pipeline to improve testability and isolation for local-first air-gapped readiness
+[2026-03-11 14:38:36 +02:00] test(i18n): verify deterministic execution boundary for i18n with strict TypeScript type-checking
