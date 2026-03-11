@@ -1,1 +1,1 @@
-[2026-03-11 14:38:36 +02:00] test(i18n): verify deterministic execution boundary for i18n with strict TypeScript type-checking
+[2026-03-11 15:24:16 +02:00] test(theme): strengthen assertion thresholds in theme test suite with graceful offline fallback
