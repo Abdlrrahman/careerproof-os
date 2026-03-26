@@ -1,1 +1,1 @@
-[2026-03-26 11:58:54 +02:00] feat(negotiation): job fit analyzer with vector similarity and weighted skill match with sub-millisecond execution latency
+[2026-03-26 12:40:46 +02:00] refactor(dossier): refactor dossier architecture for strict typing and decoupling with error boundary safeguards
