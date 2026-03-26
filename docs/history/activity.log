@@ -1,1 +1,1 @@
-[2026-03-19 15:02:42 +02:00] fix(telemetry): fix compensation chart tooltip offset on high-DPI viewports with graceful offline fallback
+[2026-03-26 09:50:11 +02:00] feat(chaos): SLO calculator for team reliability engineering metrics and availability for local-first air-gapped readiness
