@@ -1,1 +1,1 @@
-[2026-03-26 12:40:46 +02:00] refactor(dossier): refactor dossier architecture for strict typing and decoupling with error boundary safeguards
+[2026-03-26 13:24:04 +02:00] test(chaos): expand unit and integration test coverage for chaos module
