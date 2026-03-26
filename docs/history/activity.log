@@ -1,1 +1,1 @@
-[2026-03-26 19:49:04 +02:00] perf(matching): code-split dynamic charting libraries to minimize first contentful paint with graceful offline fallback
+[2026-03-26 20:32:14 +02:00] fix(negotiation): ensure dark mode background and border contrast meet WCAG 2.2 AA adhering to Level-4 sovereign stack standards
