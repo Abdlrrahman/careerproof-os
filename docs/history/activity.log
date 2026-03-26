@@ -1,1 +1,1 @@
-[2026-03-26 16:15:38 +02:00] fix(perf): fix Kanban drag-and-drop state sync across concurrent column updates and verify mathematical invariance
+[2026-03-26 16:57:58 +02:00] feat(matching): application pipeline Kanban board with automated stage progression with zero-cloud data sovereignty
