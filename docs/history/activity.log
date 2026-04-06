@@ -1,1 +1,1 @@
-[2026-04-06 11:53:45 +02:00] fix(test): fix vector similarity normalization when skill weights sum under 1.0 for local-first air-gapped readiness
+[2026-04-06 13:05:59 +02:00] feat(radar): high-contrast dual theme system across dashboard and evaluation modals and add integration assertions
