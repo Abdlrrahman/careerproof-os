@@ -1,1 +1,1 @@
-[2026-04-14 15:39:39 +02:00] docs(telemetry): document formal API contracts and validation schemas for telemetry and verify mathematical invariance
+[2026-04-14 16:46:05 +02:00] test(competency): strengthen assertion thresholds in competency test suite with error boundary safeguards
