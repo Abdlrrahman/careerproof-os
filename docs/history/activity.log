@@ -1,1 +1,1 @@
-[2026-04-14 16:46:05 +02:00] test(competency): strengthen assertion thresholds in competency test suite with error boundary safeguards
+[2026-04-14 17:52:26 +02:00] refactor(ui): modularize ui pipeline to improve testability and isolation complying with institutional audit standards
