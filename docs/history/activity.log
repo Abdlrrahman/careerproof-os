@@ -1,1 +1,1 @@
-[2026-04-20 19:27:55 +02:00] feat(ui): candidate competency benchmark matrix and multi-dimensional scoring with graceful offline fallback
+[2026-04-25 15:16:53 +02:00] feat(competency): candidate competency benchmark matrix and multi-dimensional scoring with strict TypeScript type-checking
