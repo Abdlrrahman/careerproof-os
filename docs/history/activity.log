@@ -1,1 +1,1 @@
-[2026-05-06 10:19:20 +02:00] test(ui): add edge-case regression specs for ui inputs with optimized memory allocation
+[2026-05-06 11:14:37 +02:00] fix(slo): fix Kanban drag-and-drop state sync across concurrent column updates with sub-millisecond execution latency
