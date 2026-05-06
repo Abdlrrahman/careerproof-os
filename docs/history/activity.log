@@ -1,1 +1,1 @@
-[2026-05-06 15:52:31 +02:00] feat(i18n): high-contrast dual theme system across dashboard and evaluation modals for local-first air-gapped readiness
+[2026-05-06 16:47:57 +02:00] fix(ui): patch active state toggle on tech radar filter pills with graceful offline fallback
