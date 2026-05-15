@@ -1,1 +1,1 @@
-[2026-05-15 10:47:57 +02:00] feat(i18n): salary negotiation playbook with percentile benchmark data and levers and add integration assertions
+[2026-05-15 12:19:09 +02:00] refactor(chaos): refactor chaos architecture for strict typing and decoupling with sub-millisecond execution latency
