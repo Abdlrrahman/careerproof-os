@@ -1,1 +1,1 @@
-[2026-05-29 17:43:09 +02:00] fix(perf): ensure dark mode background and border contrast meet WCAG 2.2 AA ensuring idempotent state updates
+[2026-05-29 19:26:02 +02:00] feat(radar): candidate competency benchmark matrix and multi-dimensional scoring and add integration assertions
