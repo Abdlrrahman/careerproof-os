@@ -1,1 +1,1 @@
-[2026-06-15 15:26:32 +02:00] fix(competency): patch active state toggle on tech radar filter pills with strict TypeScript type-checking
+[2026-06-15 16:57:03 +02:00] test(ui): strengthen assertion thresholds in ui test suite complying with institutional audit standards
