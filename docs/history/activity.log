@@ -1,1 +1,1 @@
-[2026-07-01 11:05:52 +02:00] fix(matching): fix Arabic font rendering on mobile webkit browsers to ensure deterministic execution
+[2026-07-01 12:48:10 +02:00] docs(knowledge-graph): update technical specifications and mathematical documentation for knowledge-graph with strict TypeScript type-checking
