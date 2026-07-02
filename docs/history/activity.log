@@ -1,1 +1,1 @@
-[2026-07-02 16:28:18 +02:00] feat(negotiation): bilingual Arabic RTL localization and Amiri font typography and verify mathematical invariance
+[2026-07-02 18:51:45 +02:00] perf(test): memoize skill evidence scoring algorithm across large profile trees with optimized memory allocation
