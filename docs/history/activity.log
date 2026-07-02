@@ -1,1 +1,1 @@
-[2026-07-02 14:05:16 +02:00] fix(vector): fix Arabic font rendering on mobile webkit browsers with graceful offline fallback
+[2026-07-02 16:28:18 +02:00] feat(negotiation): bilingual Arabic RTL localization and Amiri font typography and verify mathematical invariance
