@@ -1,1 +1,1 @@
-[2026-07-02 11:41:21 +02:00] docs(chaos): add deployment runbook and configuration guide for chaos and verify mathematical invariance
+[2026-07-02 14:05:16 +02:00] fix(vector): fix Arabic font rendering on mobile webkit browsers with graceful offline fallback
