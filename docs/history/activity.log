@@ -1,1 +1,1 @@
-[2026-07-31 11:27:54 +02:00] fix(perf): fix vector similarity normalization when skill weights sum under 1.0 with zero-cloud data sovereignty
+[2026-07-31 12:32:03 +02:00] perf(i18n): defer non-critical icon assets during initial hydration across all deployment profiles
