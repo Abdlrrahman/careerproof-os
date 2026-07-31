@@ -1,1 +1,1 @@
-[2026-07-31 10:23:25 +02:00] feat(ui): SLO calculator for team reliability engineering metrics and availability to ensure deterministic execution
+[2026-07-31 11:27:54 +02:00] fix(perf): fix vector similarity normalization when skill weights sum under 1.0 with zero-cloud data sovereignty
