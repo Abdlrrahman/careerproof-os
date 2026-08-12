@@ -1,1 +1,1 @@
-[2026-08-12 11:15:28 +02:00] docs(copilot): document formal API contracts and validation schemas for copilot and add integration assertions
+[2026-08-12 11:52:38 +02:00] fix(perf): fix vector similarity normalization when skill weights sum under 1.0 with error boundary safeguards
