@@ -1,1 +1,1 @@
-[2026-08-12 14:23:04 +02:00] fix(matching): fix Arabic font rendering on mobile webkit browsers with optimized memory allocation
+[2026-08-12 15:00:39 +02:00] feat(dossier): job fit analyzer with vector similarity and weighted skill match with error boundary safeguards
