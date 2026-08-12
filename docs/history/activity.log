@@ -1,1 +1,1 @@
-[2026-08-12 13:08:17 +02:00] fix(telemetry): resolve modal focus trap in AskPortfolio AI modal
+[2026-08-12 13:45:28 +02:00] refactor(radar): streamline internal state transitions in radar controller with strict TypeScript type-checking
