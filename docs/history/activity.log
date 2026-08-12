@@ -1,1 +1,1 @@
-[2026-08-12 13:45:28 +02:00] refactor(radar): streamline internal state transitions in radar controller with strict TypeScript type-checking
+[2026-08-12 14:23:04 +02:00] fix(matching): fix Arabic font rendering on mobile webkit browsers with optimized memory allocation
