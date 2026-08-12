@@ -1,1 +1,1 @@
-[2026-08-12 11:52:38 +02:00] fix(perf): fix vector similarity normalization when skill weights sum under 1.0 with error boundary safeguards
+[2026-08-12 12:30:55 +02:00] test(radar): verify deterministic execution boundary for radar with error boundary safeguards
