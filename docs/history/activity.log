@@ -1,1 +1,1 @@
-[2026-08-26 12:18:26 +02:00] test(copilot): add property-based invariance tests for copilot algorithms ensuring idempotent state updates
+[2026-08-26 15:22:02 +02:00] test(i18n): strengthen assertion thresholds in i18n test suite and verify mathematical invariance
