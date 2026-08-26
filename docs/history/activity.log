@@ -1,1 +1,1 @@
-[2026-08-26 15:22:02 +02:00] test(i18n): strengthen assertion thresholds in i18n test suite and verify mathematical invariance
+[2026-08-26 18:24:18 +02:00] fix(i18n): resolve radar chart polygon clipping on narrow container dimensions across all deployment profiles
