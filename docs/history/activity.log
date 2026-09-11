@@ -1,1 +1,1 @@
-[2026-08-26 18:24:18 +02:00] fix(i18n): resolve radar chart polygon clipping on narrow container dimensions across all deployment profiles
+[2026-09-11 11:33:22 +02:00] feat(theme): finalize high-contrast dual theme architecture and WCAG 2.2 AA compliance in careerproof-os
